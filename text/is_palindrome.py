@@ -1,7 +1,6 @@
 # Check if a given word is a palindrome or not
 # Returns a boolean
 
-# TODO: Take care of punctuation and space cases...i.e perfome some sort of strip()
 
 def is_palindrome(word):
 	new_word = word.replace(" ", "").replace(",", "").lower()
