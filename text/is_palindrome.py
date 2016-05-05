@@ -1,7 +1,7 @@
 # Check if a given word is a palindrome or not
 # Returns a boolean
 
-
+count_
 def is_palindrome(word):
 	new_word = word.replace(" ", "").replace(",", "").lower()
 	if len(new_word) == 1:
