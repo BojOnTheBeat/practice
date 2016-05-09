@@ -72,7 +72,7 @@ def is_permutation(string1, string2):
 
 
 
-# Test by running (Awful I know, will set up proper unit tests later
+# Test by running (Awful I know, will set up proper unit tests later.
 if __name__ == '__main__':
 	#print faster_unique("string")
 	#print faster_unique("banana")
