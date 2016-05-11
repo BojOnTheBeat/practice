@@ -69,6 +69,13 @@ def is_permutation(string1, string2):
 		return False
 
 
+"""4:Replace all spaces in a string with '%20'
+"""
+
+def replace_space(string):
+	return string.replace(" ", '%20')
+
+
 
 
 
@@ -76,10 +83,11 @@ def is_permutation(string1, string2):
 if __name__ == '__main__':
 	#print faster_unique("string")
 	#print faster_unique("banana")
-	print is_permutation("ban", "nab")
-	print is_permutation("noob", "stop")
-	print is_permutation("noob", "boob")
-
+	#print is_permutation("ban", "nab")
+	#print is_permutation("noob", "stop")
+	#print is_permutation("noob", "boob")
+	print replace_space("The boy is good")
+	
 
 
 
