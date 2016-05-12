@@ -86,8 +86,8 @@ if __name__ == '__main__':
 	#print is_permutation("ban", "nab")
 	#print is_permutation("noob", "stop")
 	#print is_permutation("noob", "boob")
-	print replace_space("The boy is good")
-	
+	#print replace_space("The boy is good")
+
 
 
 
