@@ -78,7 +78,8 @@ def replace_space(string):
 
 
 """5: String compression
-For example, "aabbbccccaaa" becomes a2b3c4a3
+For example, "aabbbccccaaa" becomes "a2b3c4a3"
+(str)->str 
 """
 
 
