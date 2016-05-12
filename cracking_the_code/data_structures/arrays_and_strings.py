@@ -77,6 +77,10 @@ def replace_space(string):
 
 
 
+"""5: String compression
+"""
+
+
 
 
 # Test by running (Awful I know, will set up proper unit tests later.
