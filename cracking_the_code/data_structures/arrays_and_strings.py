@@ -82,7 +82,7 @@ For example, "aabbbccccaaa" becomes "a2b3c4a3"
 (str)->str 
 """
 def compress(string):
-	pass
+	return
 
 
 
